@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Leetcode Stats]([https://leetcard.jacoblin.cool/sarthakk539](https://leetcard.jacoblin.cool/sarthak539?theme=dark&font=Cantarell))
+![Leetcode Stats](https://leetcard.jacoblin.cool/sarthak539?theme=light&font=Cantarell)
 
 <!--
 **sarthakk539/sarthakk539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
