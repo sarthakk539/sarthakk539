@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://vercel.app/sarthakk539" alt="LeetCode Stats" />
+</div>
 
 <!--
 **sarthakk539/sarthakk539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
